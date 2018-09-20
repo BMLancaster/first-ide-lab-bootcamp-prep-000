@@ -1,1 +1,2 @@
-Var theQuestion = 'Who is John Galt?"
+var theQuestion = 'Who is John Galt?'
+
